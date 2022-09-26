@@ -12,12 +12,11 @@
 ![NodeJS](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)
 ![PUG](https://img.shields.io/badge/pug-A86454?style=for-the-badge&logo=pug&logoColor=white)
-
-![Gael An's GitHub stats](https://github-readme-stats.vercel.app/api?username=vermouth0106&show_icons=true&theme=radical)
-            
             
 ### 🍀 Me 🍀
 <a href="https://vermouth0106.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-222222?style=flat-square&logo=Blogger&logoColor=white"/></a>
 <a href="https://www.instagram.com/timeisagiftfromgod/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+            
+![Gael An's GitHub stats](https://github-readme-stats.vercel.app/api?username=vermouth0106&show_icons=true&theme=radical)
             
 </div>
